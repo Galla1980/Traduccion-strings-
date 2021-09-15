@@ -189,161 +189,161 @@
     <string name="btn_info">Info de nodo</string>
 
     <!--Screen titles-->
-    <string name="title_activity_devices">Devices</string>
-    <string name="title_activity_sign_up_confirm">Confirm Account</string>
-    <string name="title_activity_forgot_password">Forgot Password</string>
-    <string name="title_activity_reset_password">Reset Password</string>
-    <string name="title_activity_change_password">Change Password</string>
-    <string name="title_activity_connect_device">Connect to Device</string>
-    <string name="title_activity_add_device">Add Device</string>
-    <string name="title_activity_pop">Proof of Possession</string>
-    <string name="title_activity_provision">Provision</string>
-    <string name="title_activity_provisioning">Provisioning</string>
-    <string name="title_activity_wifi_scan_list">Select Wi-Fi Network</string>
-    <string name="title_activity_wifi_config">Wi-Fi Configuration</string>
-    <string name="title_activity_node_details">Node Details</string>
-    <string name="title_activity_user_profile">User Profile</string>
-    <string name="title_activity_claiming">Claiming</string>
-    <string name="title_activity_add_schedule">Add Schedule</string>
-    <string name="title_activity_schedule_details">Schedule Details</string>
-    <string name="title_activity_repeat_days">Repeat</string>
-    <string name="title_activity_actions">Actions</string>
-    <string name="title_activity_schedules">Schedules</string>
-    <string name="title_activity_select_devices">Select Devices</string>
-    <string name="title_activity_select_actions">Select Actions</string>
-    <string name="title_activity_manage_groups">Manage Groups</string>
-    <string name="title_activity_create_group">Create Group</string>
-    <string name="title_activity_edit_group">Edit Group</string>
-    <string name="title_activity_sharing_requests">Sharing Requests</string>
-    <string name="title_activity_voice_services">Voice Services</string>
+    <string name="title_activity_devices">Dispositivos</string>
+    <string name="title_activity_sign_up_confirm">Confirmar Cuenta</string>
+    <string name="title_activity_forgot_password">Olvide Mi Contraseña</string>
+    <string name="title_activity_reset_password">Reestablecer Contraseña</string>
+    <string name="title_activity_change_password">Cambiar Contraseña</string>
+    <string name="title_activity_connect_device">Conectarse a dispositivo</string>
+    <string name="title_activity_add_device">Añadir Dispositivo</string>
+    <string name="title_activity_pop">Prueba de Posesion(POP)</string>
+    <string name="title_activity_provision">Aprovisionamiento</string>
+    <string name="title_activity_provisioning">Aprovisionando</string>
+    <string name="title_activity_wifi_scan_list">Seleccione red Wi-Fi</string>
+    <string name="title_activity_wifi_config">Configuracion de Wi-Fi</string>
+    <string name="title_activity_node_details">Detalles del Nodo</string>
+    <string name="title_activity_user_profile">Perfil</string>
+    <string name="title_activity_claiming">Reclamo</string>
+    <string name="title_activity_add_schedule">Añadir Calendario</string>
+    <string name="title_activity_schedule_details">Detalles del Calendario</string>
+    <string name="title_activity_repeat_days">Repetir</string>
+    <string name="title_activity_actions">Acciones</string>
+    <string name="title_activity_schedules">Calendarios</string>
+    <string name="title_activity_select_devices">Seleccionar Dispositivo</string>
+    <string name="title_activity_select_actions">Seleccionar Accion</string>
+    <string name="title_activity_manage_groups">Administrar Grupos</string>
+    <string name="title_activity_create_group">Crear Grupo</string>
+    <string name="title_activity_edit_group">Editar Grupo</string>
+    <string name="title_activity_sharing_requests">Compartiendo Solicitudes</string>
+    <string name="title_activity_voice_services">Servicios de Voz</string>
 
     <!--Dialog texts-->
-    <string name="dialog_title_login_failed">Sign-in failed</string>
-    <string name="dialog_title_sign_up_failed">Sign up failed</string>
-    <string name="dialog_title_sign_up_success">Sign up successful!</string>
-    <string name="dialog_title_conf_code_sent">Confirmation code sent</string>
-    <string name="dialog_title_conf_code_req_fail">Confirmation code request has failed</string>
-    <string name="dialog_title_password_changed">Password successfully changed!</string>
+    <string name="dialog_title_login_failed">Inicio de sesion fallido</string>
+    <string name="dialog_title_sign_up_failed">Registro fallido</string>
+    <string name="dialog_title_sign_up_success">Registro exitoso!</string>
+    <string name="dialog_title_conf_code_sent">Codigo de confirmacion enviado</string>
+    <string name="dialog_title_conf_code_req_fail">Falló la solicitud del codigo de confirmacion</string>
+    <string name="dialog_title_password_changed">Se cambio correctamente la contraseña!</string>
     <string name="dialog_title_forgot_password_failed">Forgot password failed</string>
-    <string name="dialog_title_new_version_available">New Version is available!</string>
-    <string name="dialog_title_network_info">Enter Network Information</string>
-    <string name="dialog_title_schedule_name">Enter Schedule Name</string>
-    <string name="dialog_msg_for_gps">Location services are disabled. Please enable them to continue</string>
-    <string name="dialog_msg_delete_node">Are you sure?</string>
-    <string name="dialog_msg_device_selection">Choose Provisioning Transport</string>
-    <string name="dialog_title_remove">Remove</string>
-    <string name="dialog_msg_confirmation">Are you sure?</string>
-    <string name="dialog_msg_ble_device_disconnection">Device disconnected</string>
-    <string name="dialog_msg_connect_device_manually">Device connection failed. \nDo you want to connect device manually ?</string>
-    <string name="dialog_title_group_name">Enter Group Name</string>
-    <string name="dialog_title_user_email">User Email</string>
-    <string name="dialog_title_logout">Logout</string>
-    <string name="dialog_title_no_network">Network failure</string>
-    <string name="dialog_msg_no_network">Please check your phone\'s network</string>
+    <string name="dialog_title_new_version_available">Nueva version disponible!</string>
+    <string name="dialog_title_network_info">Ingrese la informacion de la red</string>
+    <string name="dialog_title_schedule_name">Ingrese el nombre del calendario</string>
+    <string name="dialog_msg_for_gps">Los servicios de ubicacion estas desactivados. Por favor activelos para continuar</string>
+    <string name="dialog_msg_delete_node">¿Esta seguro?</string>
+    <string name="dialog_msg_device_selection">Elija el transporte de aprovisionamiento</string>
+    <string name="dialog_title_remove">Remover</string>
+    <string name="dialog_msg_confirmation">¿Esta seguro?</string>
+    <string name="dialog_msg_ble_device_disconnection">Dispositivo desconectado</string>
+    <string name="dialog_msg_connect_device_manually">Conexion fallida. \n¿Desea conectar el dispositivo manualmente?</string>
+    <string name="dialog_title_group_name">Ingrese el nombre del grupo</string>
+    <string name="dialog_title_user_email">Email de usuario</string>
+    <string name="dialog_title_logout">Cerrar sesion</string>
+    <string name="dialog_title_no_network">Error de red</string>
+    <string name="dialog_msg_no_network">Verifique la conexion del dispositivo</string>
 
     <!--Node Details-->
-    <string name="node_id">Node Id</string>
-    <string name="node_name">Name</string>
-    <string name="node_type">Type</string>
-    <string name="node_fw_version">Firmware Version</string>
-    <string name="node_config_version">Config Version</string>
-    <string name="node_timezone">Timezone</string>
-    <string name="node_shared_with">Shared with</string>
-    <string name="node_shared_by">Shared by</string>
-    <string name="pending_requests">Pending for acceptance</string>
+    <string name="node_id">ID del Nodo</string>
+    <string name="node_name">Nombre</string>
+    <string name="node_type">Tipo</string>
+    <string name="node_fw_version">Version del FirmWare</string>
+    <string name="node_config_version">Version de la Configuracion</string>
+    <string name="node_timezone">Zona horaria</string>
+    <string name="node_shared_with">Compartido con</string>
+    <string name="node_shared_by">Compartido por</string>
+    <string name="pending_requests">Esperando aceptación</string>
 
     <!-- Instruction Strings -->
-    <string name="pop_instruction">Enter your proof of possession PIN for</string>
-    <string name="setup_instructions">To complete setup of your device %1$s, please provide your Home Network\'s credentials.</string>
-    <string name="connect_device_instruction_general">To provision your device, make sure it is turned ON. Connect your mobile phone to the Wi-Fi network with a name like PROV_XXXXXX</string>
-    <string name="connect_device_instruction_specific">To provision your device, make sure it is turned ON. Connect your mobile phone to the Wi-Fi network with the name</string>
-    <string name="password_instruction">Password should contain at least one capital letter and a number.</string>
-    <string name="forgot_password_instruction">Please enter your registered email id to reset your password.</string>
-    <string name="reset_password_instruction">Set your new password with the verification code that was sent to you.</string>
-    <string name="enable_bluetooth_instructions">To provision your new device, please make sure that your Phone\'s Bluetooth is turned on and within range of your new device.</string>
-    <string name="enabled_bluetooth_instructions">To provision the device, please enter your Network credentials on the next page.</string>
+    <string name="pop_instruction">Ingrese su PIN POP para</string>
+    <string name="setup_instructions">Para completar la configuracion de tu dispositivo %1$s, por favor provea las credenciales de su red.\'s</string>
+    <string name="connect_device_instruction_general">Para aprovicionar su dispositivo, asegurese de que este encendido. Conecte su celular al Wi-Fi con un nombre como: PROV_XXXXXX</string>
+    <string name="connect_device_instruction_specific">Para aprovicionar su dispositivo, asegurese de que este encendido. Conecte su celular al Wi-Fi con el nombre correspondiente</string>
+    <string name="password_instruction">La contraseña debe tener al menos una mayuscula y un numero.</string>
+    <string name="forgot_password_instruction">Ingrese su email para reestablecer la contraseña.</string>
+    <string name="reset_password_instruction">Ingrese la nueva contraseña con el codigo que se le envio.</string>
+    <string name="enable_bluetooth_instructions">Para aprovisionar su nuevo dispositivo, asegurese de que el Bluetooth este encendido y en el rango de su nuevo dispositivo.</string>
+    <string name="enabled_bluetooth_instructions">para aprovisionar su nuevo dispositivo, ingrese las credenciales de su red en la siguiente pagina.</string>
 
     <!--Other Strings-->
-    <string name="read_terms_condition">I have read and agree to the Privacy Policy and Terms of Use.</string>
-    <string name="login_with">Login with</string>
-    <string name="use_email_id">or use your email id</string>
-    <string name="forgot_password">Forgot password?</string>
-    <string name="resend_code">Resend Code</string>
-    <string name="connect_your_device">Connect to your device</string>
-    <string name="documentation">Documentation</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="terms_of_use">Terms of Use</string>
-    <string name="voice_services">Voice Services</string>
-    <string name="looking_for_qr_code">Looking for QR Code</string>
-    <string name="position_camera_for_qr_code">Please position the camera to point at the QR Code.</string>
-    <string name="app_version">App Version</string>
-    <string name="enter_valid_value">Please enter valid value</string>
-    <string name="password_change_success">Password has been changed</string>
-    <string name="password_change_failure">Password change failed</string>
-    <string name="success">Success!</string>
-    <string name="req_confirmation_code">Request for a confirmation code or confirm with the code you already have.</string>
-    <string name="confirmation_failed">Confirmation failed</string>
-    <string name="text_remove_node">By removing a node, all the associated devices will also be removed.</string>
-    <string name="device_no_param">Device has no parameters</string>
-    <string name="process_take_time">This may take time.</string>
-    <string name="not_set">Not set</string>
-    <string name="msg_no_internet">No internet connection</string>
-    <string name="schedule_actions">Actions</string>
-    <string name="msg_schedule_added">Schedule added</string>
-    <string name="msg_schedule_updated">Schedule updated</string>
-    <string name="group_all_devices">All Devices</string>
-    <string name="success_group_name_update">Group name updated successfully</string>
-    <string name="success_group_create">Group created successfully</string>
-    <string name="success_group_update">Group updated successfully</string>
-    <string name="success_group_remove">Group removed successfully</string>
-    <string name="wants_to_share">wants to share</string>
-    <string name="with_you">with you</string>
-    <string name="and">and</string>
-    <string name="devices">devices</string>
-    <string name="device">device</string>
-    <string name="node">node</string>
-    <string name="expires_in">Expires in</string>
-    <string name="expire_days">days</string>
-    <string name="select_timezone">Select Timezone</string>
-    <string name="select_network">Select Network</string>
+    <string name="read_terms_condition">He leido y acepto la politica de privacidad y los terminos de uso.</string>
+    <string name="login_with">Ingresar con</string>
+    <string name="use_email_id">o use su id de email</string>
+    <string name="forgot_password">¿Olvido su contraseña?</string>
+    <string name="resend_code">Reenviar codigo</string>
+    <string name="connect_your_device">Conectar a su dispositivo</string>
+    <string name="documentation">Documentacion</string>
+    <string name="privacy_policy">Politica de privacidad</string>
+    <string name="terms_of_use">Terminos de uso</string>
+    <string name="voice_services">Servicios de voz</string>
+    <string name="looking_for_qr_code">Buscando codigo QR</string>
+    <string name="position_camera_for_qr_code">Por favor enfoque el codigo QR.</string>
+    <string name="app_version">Version de la App</string>
+    <string name="enter_valid_value">Por favor ingrese un valor valido</string>
+    <string name="password_change_success">Se cambio la contraseña</string>
+    <string name="password_change_failure">Fallo el cambio de contraseña</string>
+    <string name="success">¡Exito!</string>
+    <string name="req_confirmation_code">Solicite un codigo de confirmacion o use el que ya tiene.</string>
+    <string name="confirmation_failed">Fallo la confirmacion</string>
+    <string name="text_remove_node">Al remover un nodo, se eliminaran todos los dipositivos asociados a el.</string>
+    <string name="device_no_param">El dispositivo no tiene parametros</string>
+    <string name="process_take_time">Esto podria llevar un tiempo.</string>
+    <string name="not_set">No establecido</string>
+    <string name="msg_no_internet">Sin conexion a internet</string>
+    <string name="schedule_actions">Acciones</string>
+    <string name="msg_schedule_added">Calendario añadido</string>
+    <string name="msg_schedule_updated">Calendario actualizado</string>
+    <string name="group_all_devices">Todos los dispositivos</string>
+    <string name="success_group_name_update">Nombre de grupo actualizado exitosamente</string>
+    <string name="success_group_create">Grupo creado exitosamente</string>
+    <string name="success_group_update">Grupo actualizado exitosamente</string>
+    <string name="success_group_remove">Grupo removido exitosamente</string>
+    <string name="wants_to_share">quiere compartir</string>
+    <string name="with_you">con usted</string>
+    <string name="and">y</string>
+    <string name="devices">dispositivos</string>
+    <string name="device">dispositivo</string>
+    <string name="node">nodo</string>
+    <string name="expires_in">Expira en</string>
+    <string name="expire_days">Dias</string>
+    <string name="select_timezone">Seleccione Zona Horaria</string>
+    <string name="select_network">Seleccione Red</string>
     <string name="email">Email</string>
-    <string name="supported_services">Supported Services</string>
+    <string name="supported_services">Servicios Soportados</string>
     <string name="text_alexa">Amazon Alexa</string>
-    <string name="text_gva">Google Assistant</string>
+    <string name="text_gva">Asistente de Google</string>
 
-    <string name="prov_step_1">Sending Wi-Fi credentials</string>
-    <string name="prov_step_2">Confirming Wi-Fi connection</string>
-    <string name="prov_step_3">Configuring User-Node association</string>
-    <string name="prov_step_4">Confirming User-Node association</string>
-    <string name="prov_step_5">Setting up the Node</string>
-    <string name="error_prov_step_1">Failed to associate device</string>
-    <string name="error_prov_step_2">Failed to send Wi-Fi credentials</string>
-    <string name="error_prov_step_3">Failed to configure node association</string>
-    <string name="error_prov_step_4">Failed to confirm node association</string>
-    <string name="error_prov_step_5">Failed to setup node</string>
+    <string name="prov_step_1">Enviando credeciales Wi-Fi</string>
+    <string name="prov_step_2">Confirmando conexion Wi-Fi</string>
+    <string name="prov_step_3">Configurando asociacion usuario-nodo</string>
+    <string name="prov_step_4"><Confirmando asociacion usuario-nodo</string>
+    <string name="prov_step_5">Estableciendo el nodo</string>
+    <string name="error_prov_step_1">Fallo al asociar el dispositivo</string>
+    <string name="error_prov_step_2">Fallo al enviar las credenciales de red</string>
+    <string name="error_prov_step_3">Fallo al configurar la asociacion del nodo</string>
+    <string name="error_prov_step_4">Fallo al confirmar la asociacion del nodo</string>
+    <string name="error_prov_step_5">Fallo al configurar el nodo</string>
 
-    <string name="schedule_on_day">On</string>
-    <string name="schedule_once">Once</string>
-    <string name="schedule_daily">Every day</string>
-    <string name="schedule_weekends">On Weekends</string>
-    <string name="schedule_weekdays">On Weekdays</string>
+    <string name="schedule_on_day">En</string>
+    <string name="schedule_once">Una vez</string>
+    <string name="schedule_daily">Todos los dias</string>
+    <string name="schedule_weekends">En fin de semana</string>
+    <string name="schedule_weekdays">En dias de semana</string>
 
-    <string name="day_1">MON</string>
-    <string name="day_2">TUE</string>
-    <string name="day_3">WED</string>
-    <string name="day_4">THU</string>
-    <string name="day_5">FRI</string>
-    <string name="day_6">SAT</string>
-    <string name="day_7">SUN</string>
+    <string name="day_1">LUN</string>
+    <string name="day_2">MAR</string>
+    <string name="day_3">MIER</string>
+    <string name="day_4">JUE</string>
+    <string name="day_5">VIE</string>
+    <string name="day_6">SAB</string>
+    <string name="day_7">DOM</string>
 
     <string-array name="days">
-        <item>Sun</item>
-        <item>Sat</item>
-        <item>Fri</item>
-        <item>Thu</item>
-        <item>Wed</item>
-        <item>Tue</item>
-        <item>Mon</item>
+        <item>Dom</item>
+        <item>Sab</item>
+        <item>Vie</item>
+        <item>Jue</item>
+        <item>Mier</item>
+        <item>Mar</item>
+        <item>Lun</item>
     </string-array>
 
     <string-array name="prov_transport_types">
